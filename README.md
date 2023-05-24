@@ -3,13 +3,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diegoolliveira1999@gmail.com)
 [![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-oliveira7/)
 
-![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegooliveira7&show_icons=true&theme=dracula&count_private=true)
-![Diego GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoliveira7&layout=compact&langs_count=7&theme=dark)
-
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://githubreadmestats.vercel.app/apiusername=diegooliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegooliveira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegooliveira7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegooliveira7&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
